@@ -1,0 +1,34 @@
+
+img {
+    width: 140px;
+    height: 200px;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 130px;
+    color: rgba(0, 0, 0, 0.565);
+    border-width: thin 20px 10px thin;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.581);
+
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.208);
+
+
+}
+
+a {
+    color: rgba(0, 0, 0, 0.544);
+}
+
+footer {
+    color: rgba(0, 0, 0, 0.719);
+    max-width: 350px;
+    margin: auto;
+}
